@@ -1,14 +1,11 @@
 
+## 🧼 Bombay Shaving Company Marketplace Analysis – A Data Case Study 🛒 ![th-removebg-preview](https://github.com/user-attachments/assets/5794ca3a-4f67-4646-86fd-4d184de8f8be)
 
----
-
-```markdown
-# 🧼 Bombay Shaving Company Marketplace Analysis – A Data Case Study 🛒 ![th-removebg-preview](https://github.com/user-attachments/assets/383cc3b6-f530-4097-82fc-b5dcbeb4fffc)
 
 
 A real-world business case study analyzing **Bombay Shaving Company’s** performance on Amazon India, including a trimmer-focused **competitive analysis with Beardo**. This project includes scraping, data cleaning, visual analysis, sentiment review, and actionable insights.
 
-![Dashboard Snapshot](visuals/hero_category_chart.png)
+![Dashboard Snapshot](https://github.com/user-attachments/assets/9ab29b02-8ecf-419a-ac8b-0d606a8f5d36)
 
 ---
 
